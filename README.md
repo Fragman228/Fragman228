@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Svyatoslav
 - 👀 I’m interested in cs:go
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ur granny
+- 💞️ I’m looking to collaborate on gnil's granny
 - 📫 How to reach me 22gagra.com@gmail.com
 
 <!---
